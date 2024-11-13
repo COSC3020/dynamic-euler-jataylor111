@@ -20,6 +20,11 @@ What is the worst-case big $\Theta$ time complexity of your algorithm?
 
 ------------------------------------------------------------------------------------------
 
+My time complexity is $\Theta(n)$
+
+This one is fairly simple, I just have two for loops neither nests but both run in n time.
+
+So, $\Theta(2n)$ and ignoring the constants $\Theta(n)$ 
 
 This link was helpful in getting perspective on bottom-up, while using a fibonnaci example that I could actually study without giving away the solution (https://en.wikipedia.org/wiki/Dynamic_programming)
 
