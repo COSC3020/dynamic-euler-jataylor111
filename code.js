@@ -20,7 +20,6 @@ function factorial(n) {
 function e(n) {
     let euler = 1.0;
     // Change to for loop
-    // Delete Later: check with Ali, seems too simple to be right
     for (let i = 1; i <= n; i++) { // Runs along all of n, complexity n
         euler += (1.0 / factorial(i)); 
     }
